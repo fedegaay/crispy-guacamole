@@ -1,0 +1,1 @@
+const ejemplo2 = "Hola Programador!"
